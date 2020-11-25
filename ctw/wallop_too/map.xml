@@ -171,9 +171,6 @@
         </region>
     </portal>
 </portals>
-<crafting>
-    <disable>shield</disable>
-</crafting>
 <itemremove>
     <item>redstone</item>
     <item>redstone torch off</item>

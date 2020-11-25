@@ -200,7 +200,6 @@
 </spawns>
 <crafting>
     <disable>boat</disable>
-    <disable>boat spruce</disable>
 
     <shapeless>
         <result material="cookie"/>
@@ -500,7 +499,6 @@
     <item>string</item>
     <item>web</item>
     <item>wood:2</item>
-    <item>boat acacia</item>
     <item>leather chestplate</item>
     <item>sandstone</item>
     <item>wood</item>
