@@ -99,7 +99,6 @@
     </apply>
 </regions>
 <crafting>
-    <disable>shield</disable>
     <disable>iron fence</disable>
     <disable>anvil</disable>
     <disable>iron trapdoor</disable>

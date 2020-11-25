@@ -160,7 +160,6 @@
     </default>
 </spawns>
 <crafting>
-    <disable>shield</disable>
 	<disable>minecart</disable>
 	<disable>boat</disable>
 	<disable>boat spruce</disable>
