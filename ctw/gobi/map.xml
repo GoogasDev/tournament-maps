@@ -201,11 +201,6 @@
 <crafting>
     <disable>boat</disable>
 
-    <shapeless>
-        <result material="cookie"/>
-        <ingredient amount="2">elytra</ingredient>
-    </shapeless>
-
     <!--<shaped>
         <result material="cookie"/>
         <shape>
