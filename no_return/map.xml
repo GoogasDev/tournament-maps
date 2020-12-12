@@ -14,8 +14,8 @@
    <rule>You may not access areas where the lava cannot flow (apart from the center).</rule>
 </rules>
 <teams>
-    <team color="dark purple" max="20">Purple</team>
-    <team color="blue" max="20">Blue</team>
+    <team color="dark purple" max="8">Purple</team>
+    <team color="blue" max="8">Blue</team>
 </teams>
 <blitz>
     <time>5m</time>
