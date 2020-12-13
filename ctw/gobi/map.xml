@@ -16,7 +16,7 @@
 <kits>
     <kit id="spawn-kit">
         <item slot="0">iron sword</item>
-        <item slot="1">bow</item>
+        <item slot="1" enchantment="arrow infinite:1">bow</item>
         <item slot="2" enchantment="dig speed:1">diamond pickaxe</item>
         <item slot="3" enchantment="dig speed:1">iron axe</item>
         <item slot="4" amount="64">golden carrot</item>
@@ -25,8 +25,7 @@
         <item slot="23" amount="64" damage="1">wood</item>
         <item slot="7" amount="16">ladder</item>
         <item slot="8" amount="2">web</item>
-        <item slot="28" amount="64">arrow</item>
-        <item slot="19" amount="64">arrow</item>
+        <item slot="28" amount="1">arrow</item>
     </kit>
     <kit id="red-kit" parents="spawn-kit">
         <chestplate material="leather chestplate" enchantment="protection projectile:1" unbreakable="true" color="993333"/>
