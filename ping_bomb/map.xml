@@ -16,7 +16,7 @@
 </teams>
 <kits>
     <kit id="spawn">
-        <item slot="0" amount="9">end bricks</item>
+        <item slot="0" amount="9">end stone</item>
         <potion duration="oo" amplifier="1">night vision</potion>
         <potion duration="oo" amplifier="-3">health boost</potion>
     </kit>
@@ -52,7 +52,7 @@
 </spawns>
 <filters>
     <any id="only-end-bricks">
-        <material>end bricks</material>
+        <material>end stone</material>
     </any>
 </filters>
 <regions>
